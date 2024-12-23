@@ -1,0 +1,78 @@
+Top 5 Bigrams for BO (insp)
+  31 the	pool
+  28 in	the
+  26 tom	elephant
+  25 the	ball
+  20 and	mary
+Top 5 Trigrams for BO (insp)
+  15 in	the	pool
+   8 tom	and	mary
+   8 and	mary	giraffe
+   7 tom	elephant	and
+   7 the	pool	tom
+
+Top 5 Bigrams for BO (cosp)
+  32 the	pool
+  28 in	the
+  26 tom	elephant
+  26 the	ball
+  20 and	mary
+Top 5 Trigrams for BO (cosp)
+  15 in	the	pool
+   8 tom	and	mary
+   8 and	mary	giraffe
+   7 tom	elephant	and
+   7 the	pool	tom
+
+Top 5 Bigrams for DK (insp)
+  43 the	ball
+  28 and	tom
+  27 tom	elephant
+  23 the	pool
+  19 mary	giraffe
+Top 5 Trigrams for DK (insp)
+  16 and	tom	elephant
+  15 mary	giraffe	and
+  12 giraffe	and	tom
+  10 the	pool	and
+   8 with	a	ball
+
+Top 5 Bigrams for DK (cosp)
+  45 the	ball
+  28 tom	elephant
+  28 and	tom
+  26 the	pool
+  21 mary	giraffe
+Top 5 Trigrams for DK (cosp)
+  16 and	tom	elephant
+  15 mary	giraffe	and
+  12 giraffe	and	tom
+  11 the	pool	and
+  10 with	a	ball
+
+Top 5 Bigrams for SP (insp)
+  57 the	ball
+  37 tom	elephant
+  33 to	the
+  32 and	tom
+  25 mary	giraffe
+Top 5 Trigrams for SP (insp)
+  16 and	tom	elephant
+  15 the	swimming	pool
+  13 mary	giraffe	and
+  12 to	the	swimming
+  11 giraffe	and	tom
+
+Top 5 Bigrams for SP (cosp)
+  60 the	ball
+  38 tom	elephant
+  33 to	the
+  32 and	tom
+  30 mary	giraffe
+Top 5 Trigrams for SP (cosp)
+  16 the	swimming	pool
+  16 mary	giraffe	and
+  16 and	tom	elephant
+  13 to	the	swimming
+  13 giraffe	and	tom
+

@@ -1,0 +1,38 @@
+Speech Metrics Summary
+                      
+Bosnian (BO) - cleaned_insp_files:
+Average Unique Words: 15.4886
+Average Utterances: 4.45455
+Average Tokens: 29.3523
+Average MLU: 1.6747
+
+Bosnian (BO) - cleaned_cosp_files:
+Average Unique Words: 16.6023
+Average Utterances: 4.45455
+Average Tokens: 33.5682
+Average MLU: 1.90957
+
+Danish (DK) - cleaned_insp_files:
+Average Unique Words: 14.6111
+Average Utterances: 3.16667
+Average Tokens: 26.9444
+Average MLU: 2.20222
+
+Danish (DK) - cleaned_cosp_files:
+Average Unique Words: 15.6389
+Average Utterances: 3.16667
+Average Tokens: 30.0972
+Average MLU: 2.45015
+
+Spanish (SP) - cleaned_insp_files:
+Average Unique Words: 12.1375
+Average Utterances: 2.4125
+Average Tokens: 23.025
+Average MLU: 2.44859
+
+Spanish (SP) - cleaned_cosp_files:
+Average Unique Words: 12.925
+Average Utterances: 2.4125
+Average Tokens: 25.275
+Average MLU: 2.6862
+

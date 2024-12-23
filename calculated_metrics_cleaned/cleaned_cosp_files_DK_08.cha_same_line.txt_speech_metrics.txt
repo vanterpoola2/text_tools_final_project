@@ -1,0 +1,5 @@
+File: cleaned_cosp_files/DK_08.cha_same_line.txt
+Unique Words:       78
+Number of Utterances:       18
+Number of Tokens:      158
+Mean Length of Utterance (MLU): 8.77778

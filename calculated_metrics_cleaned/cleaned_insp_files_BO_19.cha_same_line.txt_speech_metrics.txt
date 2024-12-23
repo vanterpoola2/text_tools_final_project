@@ -1,0 +1,5 @@
+File: cleaned_insp_files/BO_19.cha_same_line.txt
+Unique Words:       57
+Number of Utterances:       13
+Number of Tokens:       95
+Mean Length of Utterance (MLU): 7.30769

@@ -1,0 +1,5 @@
+File: cleaned_insp_files/SP_13.cha_same_line.txt
+Unique Words:       38
+Number of Utterances:        9
+Number of Tokens:       78
+Mean Length of Utterance (MLU): 8.66667

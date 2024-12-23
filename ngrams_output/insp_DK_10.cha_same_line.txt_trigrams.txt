@@ -1,0 +1,35 @@
+mary	and	tom
+and	tom	play
+tom	play	ball
+play	ball	on
+ball	on	gade@s:dan
+on	gade@s:dan	and
+gade@s:dan	and	tom
+and	tom	swim
+tom	swim	in
+swim	in	a
+in	a	swimingpool
+a	swimingpool	and
+swimingpool	and	mary
+and	mary	cast
+mary	cast	a
+cast	a	ball
+a	ball	to
+ball	to	tom
+to	tom	in
+tom	in	the
+in	the	pool
+the	pool	and
+pool	and	so
+and	so	take
+so	take	tom
+take	tom	and
+tom	and	mary
+and	mary	to
+mary	to	a
+to	a	restureng
+a	restureng	and
+restureng	and	eat
+and	eat	dinner
+eat	dinner	
+dinner		
